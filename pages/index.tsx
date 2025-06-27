@@ -1,6 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
-import SimpleNursingRolePlayMobile from '../components/SimpleNursingRolePlayMobile';
+import SimpleNursingRolePlayMobile from '../components/SimpleNursingRolePlayMobile_backup';
 
 export default function Home() {
   return (

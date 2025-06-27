@@ -15,7 +15,7 @@ const SimpleNursingRolePlayMobile: React.FC = () => {
   const [isListening, setIsListening] = useState(false);
   const [speechSupported, setSpeechSupported] = useState(false);
   const [isPlaying, setIsPlaying] = useState(false);
-  const [autoPlayEnabled, setAutoPlayEnabled] = useState(true);
+  const [autoPlayEnabled, setAutoPlayEnabled] = useState(false);
   const [isClient, setIsClient] = useState(false);
 
   // Refs
