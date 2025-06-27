@@ -1,0 +1,122 @@
+Conversations
+
+Conversation: Head-to-toe
+Nurse: "Good morning, John. I am going to do your assessment. You'll hear me repeat some things to the ambient documentation device again."
+Patient: "Okay"
+Nurse: "Can you tell me your name and birthdate?"
+Patient: "John Doe. 1/1/1970"
+Nurse: "Can you tell me the year, where you are, and why you're here?"
+Patient: "2025. I'm at DAX Hospital because I have pneumonia."
+Nurse: "Great, you're alert and oriented x 4. I'm going to listen to your heart and lungs now. You have some crackles in the right bases of your lungs. Your heart sounds are normal. I'm going to listen to your belly. Is there any tenderness when I press here?"
+Patient: "No, it feels fine."
+Nurse: "Your bowel sounds are active and your abdomen is soft and nontender, which is good. Is your throat still sore?"
+Patient: "Yes, a bit."
+Nurse: "Okay, let me take a look. Your throat appears red and inflamed. Are you still experiencing frequent coughing?"  
+Patient: "Yes." 
+Nurse: "When you cough, does anything come up?" 
+Patient: "No, it’s just dry."
+Nurse: "Your skin looks good. It is warm, dry, and intact. I'd like to check the strength in your arms and legs. Can you push your hands against me? Okay, now pull. Now let's do the same thing with your feet. There is some left-sided weakness to upper and lower extremities. Right side strength is strong. I see there’s some urine in the urinal. Are you having any difficulty when you pee?”
+Patient: “No.”
+Nurse: “Okay, good. Is there anything I can do for you right now?"
+Patient: "No, thank you."
+Nurse: "300mls of clear, yellow urine. No odor. Patient ID and allergy band on. Bed at lowest level. Call light within reach. Nonskid socks on."
+
+Conversation: Mobility
+Nurse: "Great job walking in the hall today. You walked for 10 minutes! How do you feel?"
+Patient: "I feel pretty good."
+Nurse, "I'm glad you tolerated that much movement so well."
+Nurse: "After you use this bedside commode, I'll help you get into the chair for a little while."
+Patient: "Okay, that sounds good."
+Nurse: "Here is your walker, please use this while you walk around your room."
+Patient: "Oh thank you, I almost forgot."
+Patient: "That walk was difficult for me. I don't feel good."
+Nurse: "Okay, you walked about 10 feet here in your room. I'm sorry that wasn't tolerated well."
+Nurse: "I'm going to put the SCDs back on your legs, okay?"
+Patient: "Yes, that is fine."
+Conversation: Daily cares
+Nurse: "I changed all the linen on your bed. Now, I'm going to wash your face and perform some pericare."
+Patient: "Okay, thank you."
+Nurse: "I'd like to help you clean up a little bit. Is that okay?"
+Patient: "No, I would like to wait a while."
+Nurse Monologue: "Patient refused hygiene."
+Nurse: "I am going to use these CHG cloths to clean you up before surgery."
+Patient: "Can you also grab me a clean pad?"
+Nurse: "Yes, of course, I'll get a clean incontinent pad."
+
+Conversation: Safety
+Nurse: "Do you need anything?"
+Patient: "Do you know where my phone is?"
+Nurse: "Yes. I'll bring your bedside table over to your bed. All your belongings are on the table."
+Patient: "What happens if I have another seizure?"
+Nurse: "I have placed seizure precautions at your bedside, including oxygen and suction. Your bedrails have padding, as well, for your protection."
+Nurse: "Let me help you put on these nonskid socks. This will help prevent a fall. I placed a fall risk sign on your door."
+Patient: "Okay, thank you. I don't want to fall."
+Nurse: "After repositioning you, do you feel more comfortable?"
+Patient: "Yes. Could you also hand me the call light?"
+Nurse: "Of course, here is your call light. I also turned on your bed alarm."
+
+Conversation: I/Os
+Nurse: "You ate 100% of your breakfast."
+Patient: "Yes, and I drank this thing."
+Nurse: "Oh good, you had 120mls of your Ensure Plus. Good job."
+Nurse: "Have you gone to the bathroom?"
+Patient: "Yes, I peed and pooped a lot"
+Nurse: "Ok, good. So we will say one large urine occurrence and one large stool occurrence. Did you make it to the bathroom?"
+Patient: "No, I'm sorry. I didn't have time to make it."
+Patient: "I went to the bathroom. It is still in there for you to see."
+Nurse: "Ok, thank you."
+
+Conversation: Pain
+Nurse: I’m coming back to make sure your pain medication was effective and check-in. What’s your pain rating on a 0-10 scale? 
+Patient: 3.
+Nurse: Alright, a pain of 3 is better – still just at your surgical site on your right knee? 
+Patient: Yeah, just my knee.
+Nurse: Can you describe your pain?
+Patient: It's dull now.
+
+Monologues
+Monologue: Results
+300mls amber, cloudy, malodorous urine.
+
+Monologue: Mobility
+Patient ambulated in hall for 10 minutes and tolerated it well
+Used bedside commode and then sat in chair
+Ambulated in room using walker
+Patient independent, turns self, head of bed self regulated
+Ambulated in room 10 feet, tolerated poorly
+Bilateral below knee SCDs on
+Two person assist, turned to left side, bilateral heel protectors on
+BMAT Sit and Shake, pass. Stretch and point, pass. Stand, pass. Walk, pass.
+Monologue: Daily Cares
+Patient independent, showered, brushed teeth, changed gown
+Complete linen change, face washed, and pericare done
+Patient dependent, mouth swabbed, hair washed, and shaved 
+CHG bath completed, incontinent pad replaced 
+Foley, nail, and denture care done 
+Brief changed, pericare done, barrier film applied
+Patient refused hygiene care 
+
+Monologue: Safety
+ID, allergy, and fall risk bands on, bed in lowest position, wheels locked 
+Patient repositioned, bed alarm on, call light within reach 
+Nonskid socks on, fall risk sign on door 
+Clamp, suction, bag, and mask bedside 
+Seizure precautions, oxygen and suction at bedside, padded rails 
+Patient belongings and bedside table within reach 
+Hourly rounding done, 2 of 4 side rails up, fall mat in place
+
+Monologue: I/Os
+Patient ate 100% of breakfast, drank 120ml Ensure Plus
+250ml clear, yellow urine, no odor
+1 large urine and 1 large brown stool occurrence, incontinent of both
+Medium, yellow emesis
+300 ml of urine, amber, cloudy, malodorous
+
+Monologue: Assessment
+ID, allergy, and fall risk bands on, bed in lowest position, wheels locked. 
+Patient repositioned, bed alarm on, call light within reach. 
+Nonskid socks on, fall risk sign on door. 
+Clamp, suction, bag, and mask bedside. 
+Seizure precautions, oxygen and suction at bedside, padded rails. 
+Patient belongings and bedside table within reach. 
+Hourly rounding done, 2 of 4 side rails up, fall mat in place.
